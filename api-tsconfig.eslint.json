@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+	  "target": "ES6",
+	  "outDir": "./dist",
+	  "moduleResolution": "NodeNext",
+	  "module": "NodeNext",
+	  "esModuleInterop": true,
+	  "strictNullChecks": true
+	},
+	"include": ["./apps/api/src/**/*.ts", "./apps/api/mochaConfig.ts"],
+	"exclude": ["node_modules"]
+}

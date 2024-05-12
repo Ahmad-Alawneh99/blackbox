@@ -7,7 +7,9 @@
     "lint": "turbo lint"
   },
   "devDependencies": {
-    "turbo": "latest"
+    "turbo": "latest",
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*"
   },
   "engines": {
     "node": ">=18"
