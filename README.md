@@ -8,7 +8,7 @@ This Turborepo includes the following packages/apps:
 
 ### Apps and Packages
 
-- `api`: a Node JS server [based on this template]()
+- `api`: a Node JS server [based on this template](https://github.com/Ahmad-Alawneh99/template-node-server-ts)
 - `frontend`: a [Next.js](https://nextjs.org/) app
 - `@repo/eslint-config`: `eslint` configurations
 - `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
